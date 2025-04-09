@@ -1,6 +1,6 @@
 ## Reply to “Comment on Magnetotelluric appraisal using simulated annealing” by S. Constable
 
-_S.E. Dosso & Douglas Oldenburg_
+_S.E. Dosso & Douglas W. Oldenburg_
 
 [https://doi.org/10.1111/j.1365-246X.1991.tb03901.x](https://doi.org/10.1111/j.1365-246X.1991.tb03901.x)
 
